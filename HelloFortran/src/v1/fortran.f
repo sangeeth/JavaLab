@@ -1,0 +1,4 @@
+      INTEGER FUNCTION FORTRANSUM(I,J)
+      FORTRANSUM = I+J
+      RETURN
+      END
